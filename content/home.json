@@ -39,6 +39,19 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-anthem-1-.jpg",
+          "link": "/marca/anthem"
+        },
+        {
+          "img": "/img/uploads/q-acoustics-banner-1-.jpg",
+          "link": "/marca/q-acoustics"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"

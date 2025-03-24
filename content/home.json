@@ -1,6 +1,6 @@
 {
   "meta_title": "",
-  "meta_description": "",
+  "meta_description": "E-commerce de produtos de áudio High End para residência, Home Theater e Estéreo de alta fidelidade.",
   "sections": [
     {
       "type": "banner-slider",
@@ -8,7 +8,7 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
+          "img": "/img/uploads/marantz-cinema-copiar-1-.jpg",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
@@ -18,9 +18,19 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/banner-klipsch-nine-copiar-1-.jpg",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/passion.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ma-silver-7g-1-.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/model-m1-banner_01-1-.jpg"
         }
       ]
     },
@@ -29,19 +39,9 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }

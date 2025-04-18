@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.30bccceaddac8a4dadaa3f39e7a906ae.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.bb04a18c6eef31d05756074761c04009.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.c4eda1b09fc55dad7b65888860f659fa.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.08ff57c3a12f57a5962e8b96a8228485.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0c6b834e98d9609717ee71a722152600.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Quality Áudio",
+  "short_name": "Quality Áudio",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "E-commerce de produtos de áudio High End para residência, Home Theater e Estéreo de alta fidelidade sonora, para amantes de música, filmes e shows em sua plenitude .\n\nFocada em atender um mercado crescente no mundo do áudio hifi e high end a Quality Áudio não se furta em fazer o possível para atender a demanda dos seus clientes.",
+  "background_color": "#ffffff",
+  "theme_color": "#121212"
+}
